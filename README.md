@@ -1,5 +1,4 @@
 # Notebook #4: Scikit Learn with Wine Quality Dataset
-**Due: Tuesday March 16th by 11:59pm**
 
 For this notebook, you are going to demonstrate how to use the scikit-learn library (https://scikit-learn.org) to perform machine learning experiments. 
 ## The Data :bar_chart: 
